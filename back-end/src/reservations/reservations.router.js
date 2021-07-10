@@ -25,4 +25,4 @@
    .put(controller.edit)
    .all(methodNotAllowed);
  
- module.exports = route
+ module.exports = router
