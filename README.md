@@ -13,7 +13,7 @@ This capstone is an application that caters to restaurants and fufills their nee
 [![us-04-create-table-submit-before.png](https://i.postimg.cc/CxHSGs1C/us-04-create-table-submit-before.png)](https://postimg.cc/FYRMmc01)
 
 ## Technologies Used
-This application was developed with HTML, CSS, JavaScript, React, PostgreSQL, Express, and Knex.
+This application was developed with HTML, CSS, Node.js, JavaScript, React, PostgreSQL, Express, and Knex.
 
 ## Installation
 1. Fork and clone this repository.
