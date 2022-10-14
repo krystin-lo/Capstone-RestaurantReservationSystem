@@ -1,4 +1,4 @@
-# Periodic Table Capstone
+# Capstone Project - Restaurant Reservation System
 
 This capstone is an application that caters to restaurants and fufills their needs for a reservation systems. The software is used only by restaurant personnel when a customer calls to request a reservation. At this point, the customers will not be able to access the system online.  
 
@@ -9,7 +9,7 @@ This capstone is an application that caters to restaurants and fufills their nee
 [![us-08-edit-reservation-submit-before.png](https://i.postimg.cc/65BX9Gzy/us-08-edit-reservation-submit-before.png)](https://postimg.cc/s1H8mxkr)
 #### Workers will have the ability to look for a reservation based off of a customer's phone number
 [![us-07-search-reservations-submit-no-result-after.png](https://i.postimg.cc/6pNB4m95/us-07-search-reservations-submit-no-result-after.png)](https://postimg.cc/nCTy6Tj6)
-#### WOrkers will have the ability to add the amount/capacity of a table and customize the name of the table
+#### Workers will have the ability to add the amount/capacity of a table and customize the name of the table
 [![us-04-create-table-submit-before.png](https://i.postimg.cc/CxHSGs1C/us-04-create-table-submit-before.png)](https://postimg.cc/FYRMmc01)
 
 ## Technologies Used
